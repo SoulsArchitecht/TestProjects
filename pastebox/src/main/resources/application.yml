@@ -1,0 +1,6 @@
+server:
+  port: 8083
+
+app:
+  host: http://pastebox.sshibko.ru
+  public_list_size: 10
